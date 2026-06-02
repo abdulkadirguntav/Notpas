@@ -1,4 +1,4 @@
-# notpas
+# Notpas
 
 Not alma ve alışkanlık takibi için minimalist, mobil öncelikli uygulama. React + Vite ile geliştirilmiş, Capacitor aracılığıyla Android APK olarak da derlenebilir.
 
